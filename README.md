@@ -5,17 +5,26 @@ It includes full time-series analysis, model building, forecasting, and visualiz
 Project Features
 
  Data cleaning & preprocessing
+ 
  Trend visualization (matplotlib)
+ 
  ARIMA model (manual parameters)
- Forecast for upcoming months
+
+Forecast for upcoming months
+
  Business-level insights
 
  Tech Stack
 
 Python
+
 Pandas
+
 Matplotlib
+
 Statsmodels (ARIMA)
+
 pmdarima (Auto ARIMA)
+
 Prophet
  
