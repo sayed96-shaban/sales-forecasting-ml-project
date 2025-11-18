@@ -17,18 +17,16 @@ Forecast for upcoming months
 
 
 
+Tech Stack
 
- Tech Stack
+ Python
 
-Python
+ Pandas
 
-Pandas
+ Matplotlib
 
-Matplotlib
+ Statsmodels (ARIMA)
 
-Statsmodels (ARIMA)
+ pmdarima (Auto ARIMA)
 
-pmdarima (Auto ARIMA)
-
-Prophet
  
